@@ -1,0 +1,569 @@
+﻿,Accession #,Uniprot ID,Gene ,Protein Name,Peptide,E1 RH/L,E2 RH/La
+1,Q80W21;P19639;P15626;O35660,sp|Q80W21|GSTM7_MOUSE,Gstm7;Gstm3;Gstm2;Gstm6,Glutathione S-transferase Mu 7;Glutathione S-transferase Mu 3;Glutathione S-transferase Mu 2;Glutathione S-transferase Mu 6,HNLCGETEEER,0.704065206,0.066725616
+2,P42859,sp|P42859|HD_MOUSE,Htt,Huntingtin,CDQGQADPVVAVAR,0.713780526,0.406964098
+3,P11370,sp|P11370|ENV2_MOUSE,Fv4,Retrovirus-related Env polyprotein from Fv-4 locus,CNTAWNR,0.837310558,0.537345513
+4,P05064;P05063,sp|P05064|ALDOA_MOUSE,Aldoa;Aldoc,Fructose-bisphosphate aldolase A;Fructose-bisphosphate aldolase C,CQYVTEK,0.848032564,0.557444674
+5,Q8BZH0,sp|Q8BZH0|S39AD_MOUSE,Slc39a13,Zinc transporter ZIP13,SLGAAAACR,0.68140076,0.618161587
+6,Q05920,sp|Q05920|PYC_MOUSE,Pc,"Pyruvate carboxylase, mitochondrial",ACTELGIR,0.826748953,0.833263895
+7,P54071,sp|P54071|IDHP_MOUSE,Idh2,"Isocitrate dehydrogenase [NADP], mitochondrial",CATITPDEAR,0.72642743,0.844024308
+8,O08709,sp|O08709|PRDX6_MOUSE,Prdx6,Peroxiredoxin-6,DFTPVCTTELGR,0.79723204,0.982221786
+9,Q8QZT1,sp|Q8QZT1|THIL_MOUSE,Acat1,"Acetyl-CoA acetyltransferase, mitochondrial",IHMGNCAENTAK,1.03626943,1.016156895
+10,Q60932,sp|Q60932|VDAC1_MOUSE,Vdac1,Voltage-dependent anion-selective channel protein 1,YQVDPDACFSAK,0.565131393,1.020616452
+11,Q02566;Q91Z83;P13542;Q5SX39;P13541;Q5SX40;A2AQP0;O08638;Q61879;Q6URW6;Q8VDD5,sp|Q61879|MYH10_MOUSE,Myh6;Myh7;Myh8;Myh4;Myh3;Myh1;Myh7b;Myh11;Myh10;Myh14;Myh9,Myosin-6;Myosin-7;Myosin-8;Myosin-4;Myosin-3;Myosin-1;Myosin-7B;Myosin-11;Myosin-10;Myosin-14;Myosin-9,CNGVLEGIR,0.6165844,1.25743798
+12,P08228,sp|P08228|SODC_MOUSE,Sod1,Superoxide dismutase [Cu-Zn],LACGVIGIAQ,0.701311452,1.366474546
+13,Q9CQR2,sp|Q9CQR2|RS21_MOUSE,Rps21,40S ribosomal protein S21,TYGICGAIR,0.72559231,1.384537099
+14,P26039,sp|P26039|TLN1_MOUSE,Tln1,Talin-1,CTQDLGNSTK,0.771426367,1.553990939
+15,Q02566;Q91Z83;P13542;Q5SX39;P13541;Q5SX40,sp|Q5SX39|MYH4_MOUSE,Myh6;Myh7;Myh8;Myh4;Myh3;Myh1,Myosin-6;Myosin-7;Myosin-8;Myosin-4;Myosin-3;Myosin-1,LEDECSELK,0.435182015,1.583517481
+16,P97447,sp|P97447|FHL1_MOUSE,Fhl1,Four and a half LIM domains protein 1,CSVNLANK,1.332267519,1.588057805
+17,Q9R0B9,sp|Q9R0B9|PLOD2_MOUSE,Plod2,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",LDPDMALCR,2.051302627,1.613684041
+18,Q8VCA8,sp|Q8VCA8|SCRN2_MOUSE,Scrn2,Secernin-2,AGCEMLQR,1.12265654,1.755001755
+19,Q9CZS1,sp|Q9CZS1|AL1B1_MOUSE,Aldh1b1,"Aldehyde dehydrogenase X, mitochondrial",LLCGGER,0.835212562,1.829853429
+20,Q8BTM8,sp|Q8BTM8|FLNA_MOUSE,Flna,Filamin-A,CSGPGLSPGMVR,0.965815539,1.965861428
+21,Q99KC8,sp|Q99KC8|VMA5A_MOUSE,Vwa5a,von Willebrand factor A domain-containing protein 5A,SACSAIQK,0.898311175,2.082152403
+22,P97315,sp|P97315|CSRP1_MOUSE,Csrp1,Cysteine and glycine-rich protein 1,CSQAVYAAEK,1.091331691,2.095781839
+23,P70349,sp|P70349|HINT1_MOUSE,Hint1,Histidine triad nucleotide-binding protein 1,CAADLGLK,0.689702738,2.177700348
+24,P25444,sp|P25444|RS2_MOUSE,Rps2,40S ribosomal protein S2,GCTATLGNFAK,1.168307375,2.178488385
+25,Q9R0P3,sp|Q9R0P3|ESTD_MOUSE,Esd,S-formylglutathione hydrolase,AYDATCLVK,0.996369211,2.235831995
+26,P05064,sp|P05064|ALDOA_MOUSE,Aldoa,Fructose-bisphosphate aldolase A,ALANSLACQGK,0.87657784,2.250225023
+27,Q02053;P31254,sp|P31254|UBA1Y_MOUSE,Uba1;Uba1y,Ubiquitin-like modifier-activating enzyme 1;Ubiquitin-like modifier-activating enzyme 1 Y,SIPICTLK,0.903972178,2.263980077
+28,Q9WU78,sp|Q9WU78|PDC6I_MOUSE,Pdcd6ip,Programmed cell death 6-interacting protein,FIQQTYPSGGEEQAQYCR,0.986253419,2.301495972
+29,P14824,sp|P14824|ANXA6_MOUSE,Anxa6,Annexin A6,QEICQNYK,0.752300123,2.327746741
+30,P38647,sp|P38647|GRP75_MOUSE,Hspa9,"Stress-70 protein, mitochondrial",TIAPCQK,1.06045,2.4216
+31,Q9R069,sp|Q9R069|BCAM_MOUSE,Bcam,Basal cell adhesion molecule,GGSGGFGDEC,1.065811813,2.481389578
+32,P14869,sp|P14869|RLA0_MOUSE,Rplp0,60S acidic ribosomal protein P0,CFIVGADNVGSK,0.870901461,2.52652855
+33,P51859,sp|P51859|HDGF_MOUSE,Hdgf,Hepatoma-derived growth factor,CGDLVFAK,0.623007307,2.532286655
+34,O55143,sp|O55143|AT2A2_MOUSE,Atp2a2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,ANACNSVIK,0.889152704,2.56344527
+35,Q8VDN2,sp|Q8VDN2|AT1A1_MOUSE,Atp1a1,Sodium/potassium-transporting ATPase subunit alpha-1,IISANGCK,0.640204866,2.634076064
+36,Q9Z110,sp|Q9Z110|P5CS_MOUSE,Aldh18a1,Delta-1-pyrroline-5-carboxylate synthase;Glutamate 5-kinase;Gamma-glutamyl phosphate reductase,GDECGLALGR,0.946070286,2.669514148
+37,P11983,sp|P11983|TCPA_MOUSE,Tcp1,T-complex protein 1 subunit alpha,SLHDALCVVK,1.011781468,2.674567853
+38,B2RXS4,sp|B2RXS4|PLXB2_MOUSE,Plxnb2,Plexin-B2,MDGHCAPLR,0.824475365,2.709292875
+39,P97372,sp|P97372|PSME2_MOUSE,Psme2,Proteasome activator complex subunit 2,CGYLPGNEK,0.799939406,2.709292875
+40,P14152,sp|P14152|MDHC_MOUSE,Mdh1,"Malate dehydrogenase, cytoplasmic",VIVVGNPANTNCLTASK,0.850304329,2.733685848
+41,Q8CGC7,sp|Q8CGC7|SYEP_MOUSE,Eprs,Bifunctional glutamate/proline--tRNA ligase;Glutamate--tRNA ligase;Proline--tRNA ligase,SCQFVAVR,0.938347128,2.792232451
+42,Q8BFZ9,sp|Q8BFZ9|ERLN2_MOUSE,Erlin2,Erlin-2,ADAECYTALK,1.066325443,2.793296089
+43,Q8CGC7,sp|Q8CGC7|SYEP_MOUSE,Eprs,Bifunctional glutamate/proline--tRNA ligase;Glutamate--tRNA ligase;Proline--tRNA ligase,VACQGEVVR,0.840477391,2.867664078
+44,Q9DCX2,sp|Q9DCX2|ATP5H_MOUSE,Atp5h,"ATP synthase subunit d, mitochondrial",SCAEFVSGSQLR,0.629995922,2.884045121
+45,Q99KR7;Q9CR16;Q9ERU9,sp|Q9CR16|PPID_MOUSE,Ppif;Ppid;Ranbp2,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial;Peptidyl-prolyl cis-trans isomerase D;E3 SUMO-protein ligase RanBP2",ALCTGEK,0.882067566,2.972651605
+46,P06151;P00342;P16125,sp|P06151|LDHA_MOUSE,Ldha;Ldhc;Ldhb,L-lactate dehydrogenase A chain;L-lactate dehydrogenase C chain;L-lactate dehydrogenase B chain,VIGSGCNLDSAR,0.801469777,3.000531646
+47,P17742,sp|P17742|PPIA_MOUSE,Ppia,"Peptidyl-prolyl cis-trans isomerase A;Peptidyl-prolyl cis-trans isomerase A, N-terminally processed",ITISDCGQL,0.952382204,3.033060358
+48,O35381;Q9EST5,sp|O35381|AN32A_MOUSE,Anp32a;Anp32b,Acidic leucine-rich nuclear phosphoprotein 32 family member A;Acidic leucine-rich nuclear phosphoprotein 32 family member B,ELVLDNCK,0.941718183,3.037503115
+49,P53702,sp|P53702|CCHL_MOUSE,Hccs,Cytochrome c-type heme lyase,AYDYVECPVTGAR,0.568079477,3.099177784
+50,Q8BTX9,sp|Q8BTX9|HSDL1_MOUSE,Hsdl1,Inactive hydroxysteroid dehydrogenase-like protein 1,EALSCQA,1.19535,3.13405
+51,Q09143,sp|Q09143|CTR1_MOUSE,Slc7a1,High affinity cationic amino acid transporter 1,TPDSNLDQCK,0.97761267,3.201024328
+52,P17751,sp|P17751|TPIS_MOUSE,Tpi1,Triosephosphate isomerase,IIYGGSVTGATCK,0.769230769,3.209242619
+53,Q8C1A5,sp|Q8C1A5|THOP1_MOUSE,Thop1,Thimet oligopeptidase,GLQVEGSEAPAC,1.10992379,3.325643729
+54,P17182,sp|P17182|ENOA_MOUSE,Eno1,Alpha-enolase,VNQIGSVTESLQACK,0.83842023,3.354579
+55,Q9WVA3,sp|Q9WVA3|BUB3_MOUSE,Bub3,Mitotic checkpoint protein BUB3,TPCNAGTFSQPEK,0.742149296,3.425830764
+56,Q9R0E1,sp|Q9R0E1|PLOD3_MOUSE,Plod3,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",GVDYEGGGCR,0.910580951,3.454231434
+57,P30416,sp|P30416|FKBP4_MOUSE,Fkbp4,"Peptidyl-prolyl cis-trans isomerase FKBP4;Peptidyl-prolyl cis-trans isomerase FKBP4, N-terminally processed",TQLAVCQQR,0.854600419,3.472222222
+58,Q8JZZ7,sp|Q8JZZ7|AGRL2_MOUSE,Lphn2,Latrophilin-2,AIVDSPCIYEAEQK,0.847022184,3.472222222
+59,P09405,sp|P09405|NUCL_MOUSE,Ncl,Nucleolin,EALNSCNK,0.682966808,3.562522266
+60,Q9R0E2,sp|Q9R0E2|PLOD1_MOUSE,Plod1,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",VGEDYEGGGCR,0.729660708,3.563791875
+61,Q6PHZ2,sp|Q6PHZ2|KCC2D_MOUSE,Camk2d,Calcium/calmodulin-dependent protein kinase type II subunit delta,ASTTTCTR,1.1238,3.5844
+62,P10518,sp|P10518|HEM2_MOUSE,Alad,Delta-aminolevulinic acid dehydratase,CYQLPPGAR,1.162331256,3.608805485
+63,P08249,sp|P08249|MDHM_MOUSE,Mdh2,"Malate dehydrogenase, mitochondrial",EGVVECSFVQSK,1.199145213,3.623564398
+64,O54988,sp|O54988|SLK_MOUSE,Slk,STE20-like serine/threonine-protein kinase,MTGESECLNPSAQSR,1.20495166,3.647090671
+65,P14428;P03991;P04223;P01901,sp|P04223|HA1K_MOUSE,H2-K1,"H-2 class I histocompatibility antigen, K-Q alpha chain;H-2 class I histocompatibility antigen, K-W28 alpha chain;H-2 class I histocompatibility antigen, K-K alpha chain;H-2 class I histocompatibility antigen, K-B alpha chain",GGDYALAPGSQTSDLSLPDCK,1.099626127,3.658982803
+66,P09411,sp|P09411|PGK1_MOUSE,Pgk1,Phosphoglycerate kinase 1,FCLDNGAK,0.828090156,3.714070297
+67,P63101,sp|P63101|1433Z_MOUSE,Ywhaz,14-3-3 protein zeta/delta,YDDMAACMK,0.830357884,3.821169278
+68,Q9DC51;B2RSH2;P08752,sp|P08752|GNAI2_MOUSE,Gnai3;Gnai1;Gnai2,Guanine nucleotide-binding protein G(k) subunit alpha;Guanine nucleotide-binding protein G(i) subunit alpha-1;Guanine nucleotide-binding protein G(i) subunit alpha-2,LFDSICNNK,0.797078105,3.823827256
+69,Q61990;P57722;P60335,sp|Q61990|PCBP2_MOUSE,Pcbp2;Pcbp3;Pcbp1,Poly(rC)-binding protein 2;Poly(rC)-binding protein 3;Poly(rC)-binding protein 1,INISEGNCPER,0.712656784,3.898635478
+70,Q6PDM2,sp|Q6PDM2|SRSF1_MOUSE,Srsf1,Serine/arginine-rich splicing factor 1,EAGDVCYADVYR,0.581327393,3.90373874
+71,Q6ZWV3;P86048,sp|Q6ZWV3|RL10_MOUSE,Rpl10;Rpl10l,60S ribosomal protein L10;60S ribosomal protein L10-like,MLSCAGADR,0.982226387,3.923107101
+72,P09541;P09542,sp|P09541|MYL4_MOUSE,Myl4;Myl3,Myosin light chain 4;Myosin light chain 3,ITYGQCGDVLR,0.739269008,3.963779354
+73,Q3THK7,sp|Q3THK7|GUAA_MOUSE,Gmps,GMP synthase [glutamine-hydrolyzing],TVGVQGDCR,1.114081996,3.98089172
+74,P99024,sp|Q7TMM9|TBB2A_MOUSE,Tubb5,Tubulin beta-5 chain,TAVCDIPPR,0.748727164,4.041634047
+75,P62908,sp|P62908|RS3_MOUSE,Rps3,40S ribosomal protein S3,GCEVVVSGK,1.172332943,4.087236995
+76,Q62261;P15508,sp|P15508|SPTB1_MOUSE,Sptbn1;Sptb,"Spectrin beta chain, non-erythrocytic 1;Spectrin beta chain, erythrocytic",IHCLENVDK,0.988933337,4.140786749
+77,P97372,sp|P97372|PSME2_MOUSE,Psme2,Proteasome activator complex subunit 2,AKPCGVR,1.152,4.2068
+78,Q60876,sp|Q60876|EIF4EBP1_MOUSE,Eif4ebp1,Eukaryotic translation initiation factor 4E-binding protein 1,SAGSSCSQTPSR,1.0856,4.2249
+79,O70468,sp|O70468|MYPC3_MOUSE,Mybpc3,"Myosin-binding protein C, cardiac-type",LLCETEGR,1.357773252,4.238480033
+80,P70698,sp|P70698|PYRG1_MOUSE,Ctps1,CTP synthase 1,CLEEQGLK,0.669433659,4.253509145
+81,Q9JHU4,sp|Q9JHU4|DYHC1_MOUSE,Dync1h1,Cytoplasmic dynein 1 heavy chain 1,VQYPQSQACK,0.951448247,4.302497817
+82,Q3UZ39,sp|Q3UZ39|LRRF1_MOUSE,Lrrfip1,Leucine-rich repeat flightless-interacting protein 1,CEQQVQSQDQENTSDLK,0.828401704,4.331640252
+83,P83940,sp|P83940|ELOC_MOUSE,Tceb1,Transcription elongation factor B polypeptide 1,TYGGCEGPDAMYVK,0.802637604,4.462293619
+84,P99024,sp|Q922F4|TBB6_MOUSE,Tubb5,Tubulin beta-5 chain,NMMAACDPR,0.714895065,4.484304933
+85,Q9WVJ2,sp|Q9WVJ2|PSD13_MOUSE,Psmd13,26S proteasome non-ATPase regulatory subunit 13,CAWGQQPDLAANEAQLLR,0.923636077,4.540280647
+86,P17751,sp|P17751|TPIS_MOUSE,Tpi1,Triosephosphate isomerase,IAVAAQNCYK,0.653295878,4.543541692
+87,P14211,sp|P14211|CALR_MOUSE,Calr,Calreticulin,HEQNIDCGGGYVK,0.975800156,4.597701149
+88,P48678,sp|P48678|LMNA_MOUSE,Lmna,Prelamin-A/C;Lamin-A/C,AQNTWGCGSSLR,0.877664272,4.712535344
+89,P17742,sp|P17742|PPIA_MOUSE,Ppia,"Peptidyl-prolyl cis-trans isomerase A;Peptidyl-prolyl cis-trans isomerase A, N-terminally processed",IIPGFMCQGGDFTR,0.978208312,4.717546339
+90,P68040,sp|P68040|RACK1_MOUSE,Gnb2l1,"Guanine nucleotide-binding protein subunit beta-2-like 1;Guanine nucleotide-binding protein subunit beta-2-like 1, N-terminally processed",VWNLANCK,0.959911849,4.786979416
+91,P10639,sp|P10639|THIO_MOUSE,Txn,Thioredoxin,CMPTFQFYK,0.826676668,4.859086492
+92,P16546,sp|P16546|SPTN1_MOUSE,Sptan1,"Spectrin alpha chain, non-erythrocytic 1",ALCAEADR,1.009591116,4.926108374
+93,Q91VD9,sp|Q91VD9|NDUS1_MOUSE,Ndufs1,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",AVTEGAQAVEEPSIC,1.126298627,4.943840934
+94,Q9CR57,sp|Q9CR57|RL14_MOUSE,Rpl14,60S ribosomal protein L14,ALVDGPCTR,0.71133874,5.015045135
+95,Q80UM3,sp|Q80UM3|NAA15_MOUSE,Naa15,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",LFHSVCESK,1.060300767,5.063291139
+96,Q9QUI0;Q62159,sp|Q62159|RHOC_MOUSE,Rhoa;Rhoc,Transforming protein RhoA;Rho-related GTP-binding protein RhoC,LVIVGDGACGK,0.861803399,5.137351427
+97,P16546,sp|P16546|SPTN1_MOUSE,Sptan1,"Spectrin alpha chain, non-erythrocytic 1",GACAGSEDAVK,0.615611918,5.141388175
+98,P00493,sp|P00493|HPRT_MOUSE,Hprt1,Hypoxanthine-guanine phosphoribosyltransferase,SYCNDQSTGDIK,0.791201836,5.154639175
+99,P18760,sp|P18760|COF1_MOUSE,Cfl1,Cofilin-1,AVLFCLSEDK,0.686541693,5.249451305
+100,Q9R0P5,sp|Q9R0P5|DEST_MOUSE,Dstn,Destrin,CIVVEEGK,0.685307018,5.288207298
+101,P29533,sp|P29533|VCAM1_MOUSE,Vcam1,Vascular cell adhesion protein 1,QAQLQDAGIYECESK,0.929666404,5.291552674
+102,Q8BGD9,sp|Q8BGD9|IF4B_MOUSE,Eif4b,Eukaryotic translation initiation factor 4B,VDVVGATQGQAGSCSR,0.858756871,5.324813632
+103,P63001;P60764,sp|P60764|RAC3_MOUSE,Rac1;Rac3,Ras-related C3 botulinum toxin substrate 1;Ras-related C3 botulinum toxin substrate 3,AVLCPPPVK,0.861623298,5.330490405
+104,P26039,sp|P26039|TLN1_MOUSE,Tln1,Talin-1,AGALQCSPSDVYTK,1.116123471,5.364806867
+105,P62874,sp|P62874|GBB1_MOUSE,Gnb1,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,LFVSGACDASAK,0.511261428,5.503577325
+106,Q9QZ88,sp|Q9QZ88|VPS29_MOUSE,Vps29,Vacuolar protein sorting-associated protein 29,CNSLPAK,0.748390959,5.546311703
+107,Q60930,sp|Q60930|VDAC2_MOUSE,Vdac2,Voltage-dependent anion-selective channel protein 2,SCSGVEFSTSGSSNTDTGK,0.826514588,5.549389567
+108,Q80UU9;O55022,sp|O55022|PGRC1_MOUSE,Pgrmc2;Pgrmc1,Membrane-associated progesterone receptor component 2;Membrane-associated progesterone receptor component 1,GLATFCLDK,0.741044195,5.602847757
+109,Q9WUD1,sp|Q9WUD1|CHIP_MOUSE,Stub1,STIP1 homology and U box-containing protein 1,AQQACIEAK,1.456239988,5.66859849
+110,P61759,sp|P61759|PFD3_MOUSE,Vbp1,Prefoldin subunit 3,DGCGLETAAGNGR,0.860215054,5.698005698
+111,P51881,sp|P51881|ADT2_MOUSE,Slc25a5,"ADP/ATP translocase 2;ADP/ATP translocase 2, N-terminally processed",GLGDCLVK,0.51111679,5.730659026
+112,Q9DBJ1,sp|Q9DBJ1|PGAM1_MOUSE,Pgam1,Phosphoglycerate mutase 1,YADLTEDQLPSCESLK,1.118193,5.746239724
+113,P45377,sp|P45377|ALD2_MOUSE,Akr1b8,Aldose reductase-related protein 2,ACLLPETVNMEEYPYDAEY,0.672721157,5.833681641
+114,Q9Z1Q9,sp|Q9Z1Q9|SYVC_MOUSE,Vars,Valine--tRNA ligase,ICLQPPPSSR,1.05284993,5.854665069
+115,P60867,sp|P60867|RS20_MOUSE,Rps20,40S ribosomal protein S20,VCADLIR,0.654915071,5.923064542
+116,Q61035,sp|Q61035|SYHC_MOUSE,Hars,"Histidine--tRNA ligase, cytoplasmic",TNQPLSTC,0.855285665,5.978073544
+117,Q8VBT0,sp|Q8VBT0|TMX1_MOUSE,Tmx1,Thioredoxin-related transmembrane protein 1,CVGLPSATDTS,0.948845605,5.999397229
+118,Q60930,sp|Q60930|VDAC2_MOUSE,Vdac2,Voltage-dependent anion-selective channel protein 2,WCEYGLTFTEK,1.38031403,6.099183938
+119,P16858;Q64467,sp|P16858|G3P_MOUSE,Gapdh;Gapdhs,"Glyceraldehyde-3-phosphate dehydrogenase;Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",VPTPNVSVVDLTCR,0.744158357,6.145027645
+120,P62908,sp|P62908|RS3_MOUSE,Rps3,40S ribosomal protein S3,GLCAIAQAESLR,0.605649629,6.156175245
+121,Q8JZK9,sp|Q8JZK9|HMCS1_MOUSE,Hmgcs1,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic",HSLSYDCIGR,0.914127885,6.166261729
+122,Q9D8E6,sp|Q9D8E6|RL4_MOUSE,Rpl4,60S ribosomal protein L4,SGQGAFGNMCR,1.236037327,6.167537857
+123,P14869,sp|P14869|RLA0_MOUSE,Rplp0,60S acidic ribosomal protein P0,AGAIAPCEVTVPAQNTGLGPEK,0.808734352,6.188118812
+124,Q8BTM8,sp|Q8BTM8|FLNA_MOUSE,Flna,Filamin-A,VQVQDNEGCSVEATVK,1.400655371,6.269592476
+125,P45376,sp|P45376|ALDR_MOUSE,Akr1b1,Aldose reductase,HIDCAQVYQNEK,0.680107629,6.280224354
+126,Q64737,sp|Q64737|PUR2_MOUSE,Gart,Trifunctional purine biosynthetic protein adenosine-3;Phosphoribosylamine--glycine ligase;Phosphoribosylformylglycinamidine cyclo-ligase;Phosphoribosylglycinamide formyltransferase,QVLVAPGNAGTACAGK,0.841105723,6.319315967
+127,P20152,sp|P20152|VIME_MOUSE,Vim,Vimentin,QVQSLTCEVDALK,1.321702353,6.4808814
+128,Q8BGQ7,sp|Q8BGQ7|SYAC_MOUSE,Aars,"Alanine--tRNA ligase, cytoplasmic",IQSLGDCK,1.281722635,6.49518907
+129,Q8VHX6,sp|Q8VHX6|FLNC_MOUSE,Flnc,Filamin-C,VGVTEGCDPTR,0.517977532,6.523157208
+130,Q8BTM8,sp|Q8BTM8|FLNA_MOUSE,Flna,Filamin-A,AHVAPCFDASK,1.662383276,6.565988181
+131,Q60668,sp|Q60668|HNRPD_MOUSE,Hnrnpd,Heterogeneous nuclear ribonucleoprotein D0,FGEVVDCTLK,0.674665498,6.663671758
+132,P48962,sp|P48962|ADT1_MOUSE,Slc25a4,ADP/ATP translocase 1,EFNGLGDCLTK,0.797386938,6.693778843
+133,Q7TMK9,sp|Q7TMK9|HNRPQ_MOUSE,Syncrip,Heterogeneous nuclear ribonucleoprotein Q,SAFLCGVMK,0.678436287,6.76618166
+134,P62858,sp|P62858|RS28_MOUSE,Rps28,40S ribosomal protein S28,TGSQGQCTQVR,0.701409834,6.776859983
+135,Q9JHU4,sp|Q9JHU4|DYHC1_MOUSE,Dync1h1,Cytoplasmic dynein 1 heavy chain 1,LSCLPAFK,0.705596421,6.794723821
+136,Q922Q8,sp|Q922Q8|LRC59_MOUSE,Lrrc59,Leucine-rich repeat-containing protein 59,ATVLDLSCNK,0.83376862,6.837426541
+137,Q68FD5,sp|Q68FD5|CLH1_MOUSE,Cltc,Clathrin heavy chain 1,IHEGCEEPATHNALAK,0.669225946,6.849985757
+138,Q62426,sp|Q62426|CYTB_MOUSE,Cstb,Cystatin-B,MMCGAPSATMPATAETQEVADQVK,1.463176917,7.092198582
+139,Q60931,sp|Q60931|VDAC3_MOUSE,Vdac3,Voltage-dependent anion-selective channel protein 3,VCNYGLTFTQK,0.650110519,7.137758744
+140,P47757,sp|P47757|CAPZB_MOUSE,Capzb,F-actin-capping protein subunit beta,DETVSDCSPHIANIGR,0.923180782,7.173601148
+141,Q8BTM8,sp|Q8BTM8|FLNA_MOUSE,Flna,Filamin-A,VANPSGNLTDTYVQDCGDGTYK,1.133484002,7.207530524
+142,Q9DBG5,sp|Q9DBG5|PLIN3_MOUSE,Plin3,Perilipin-3,TVCDVAEK,0.81300813,7.250707305
+143,P16858,sp|P16858|G3P_MOUSE,Gapdh,Glyceraldehyde-3-phosphate dehydrogenase,AAICSGK,0.762020879,7.451814115
+144,Q01853,sp|Q01853|TERA_MOUSE,Vcp,Transitional endoplasmic reticulum ATPase,LGDVISIQPCPDVK,0.813704388,7.464376196
+145,Q8CI94,sp|Q8CI94|PYGB_MOUSE,Pygb,"Glycogen phosphorylase, brain form",MSVIEEGDCK,0.68429885,7.479107709
+146,P09411,sp|P09411|PGK1_MOUSE,Pgk1,Phosphoglycerate kinase 1,TGQATVASGIPAGWMGLDCGTESSK,0.821135984,7.523472861
+147,Q61029,sp|Q61029|LAP2B_MOUSE,Tmpo,"Lamina-associated polypeptide 2, isoforms beta/delta/epsilon/gamma",EMFPYEASTPTGISASCR,1.322211681,7.776844167
+148,P40124,sp|P40124|CAP1_MOUSE,Cap1,Adenylyl cyclase-associated protein 1,ALLATASQCQQPAGNK,1.390820584,7.917656374
+149,Q76MZ3;Q7TNP2,sp|Q76MZ3|2AAA_MOUSE,Ppp2r1a;Ppp2r1b,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform;Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform,DCEAEVR,1.009896991,7.961783439
+150,Q60597,sp|Q60597|ODO1_MOUSE,Ogdh,"2-oxoglutarate dehydrogenase, mitochondrial",AEQFYCGDTEGK,0.621697233,8.110300081
+151,P60710,sp|P60710|ACTB_MOUSE,Actb,"Actin, cytoplasmic 1;Actin, cytoplasmic 1, N-terminally processed",DDDIAALVVDNGSGMCK,1.23895,8.1288
+152,P07356,sp|P07356|ANXA2_MOUSE,Anxa2,Annexin A2,SVCHLQK,0.94767303,8.143322476
+153,Q3UKC1,sp|Q3UKC1|TAXB1_MOUSE,Tax1bp1,Tax1-binding protein 1 homolog,EQLECQLQTEK,1.008960774,8.14995925
+154,Q8K2I4,sp|Q8K2I4|MANBA_MOUSE,Manba,Beta-mannosidase,SAVQYAECQSK,0.88051422,8.150793266
+155,P58252,sp|P58252|EF2_MOUSE,Eef2,Elongation factor 2,STLTDSLVCK,1.06803375,8.445945946
+156,Q8CHP8,sp|Q8CHP8|PGP_MOUSE,Pgp,Phosphoglycolate phosphatase,SNQESDCMFK,1.025641026,8.453085376
+157,Q9CW03,sp|Q9CW03|SMC3_MOUSE,Smc3,Structural maintenance of chromosomes protein 3,LEQCNTELK,0.583737085,8.582287068
+158,Q8VHX6,sp|Q8VHX6|FLNC_MOUSE,Flnc,Filamin-C,LYAQDADGCPIDIK,0.859526013,8.920027341
+159,P14824,sp|P14824|ANXA6_MOUSE,Anxa6,Annexin A6,GTVCAANDFNPDADAK,0.74682599,8.944543828
+160,Q60605,sp|Q60605|MYL6_MOUSE,Myl6,Myosin light polypeptide 6,CDFTEDQTAEFK,1.5987,9.0504
+161,P35282,sp|P35282|RAB21_MOUSE,Rab21,Ras-related protein Rab-21,VVLLGEGCVGK,1.058014355,9.090909091
+162,Q7TPR4,sp|Q7TPR4|ACTN1_MOUSE,Actn1,Alpha-actinin-1,MVSDINNAWGCLEQAEK,0.950931913,9.173343189
+163,P62880,sp|P62880|GBB2_MOUSE,Gnb2,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2,TFVSGACDASIK,0.896319176,9.180835532
+164,Q8C0I1,sp|Q8C0I1|ADAS_MOUSE,Agps,"Alkyldihydroxyacetonephosphate synthase, peroxisomal",IVNLACK,0.935370332,9.61296159
+165,Q8VDD5,sp|Q8VDD5|MYH9_MOUSE,Myh9,Myosin-9,LEEDQIIMEDQNCK,0.938314875,9.615384615
+166,Q9Z1Z0,sp|Q9Z1Z0|USO1_MOUSE,Uso1,General vesicular transport factor p115,SQLCSQSLEITR,1.218163588,9.628847095
+167,Q9JLV1,sp|Q9JLV1|BAG3_MOUSE,Bag3,BAG family molecular chaperone regulator 3,SQSPAASDCSSSSSSASLPSSGR,0.831360823,9.661835749
+168,Q9Z1W9,sp|Q9Z1W9|STK39_MOUSE,Stk39,STE20/SPS1-related proline-alanine-rich protein kinase,LASGCDGSEIPDEVK,0.976623987,9.661835749
+169,P06151,sp|P06151|LDHA_MOUSE,Ldha,L-lactate dehydrogenase A chain,DYCVTANSK,0.814863103,9.671179884
+170,Q9R0P5,sp|Q9R0P5|DEST_MOUSE,Dstn,Destrin,CSTPEEIK,0.821220333,9.920634921
+171,Q9WUM4,sp|Q9WUM4|COR1C_MOUSE,Coro1c,Coronin-1C,SELSCAPK,1.083351058,10
+172,Q9Z1Z0,sp|Q9Z1Z0|USO1_MOUSE,Uso1,General vesicular transport factor p115,LQTENCELLQR,0.771881216,10.06036217
+173,Q3TXS7,sp|Q3TXS7|PSMD1_MOUSE,Psmd1,26S proteasome non-ATPase regulatory subunit 1,VLSMTETCR,0.93095064,10.16055686
+174,Q9Z1Z2,sp|Q9Z1Z2|STRAP_MOUSE,Strap,Serine-threonine kinase receptor-associated protein,CVLPEEDSGELAKPK,0.987129552,10.38287034
+175,Q9Z1N2,sp|Q9Z1N2|ORC1_MOUSE,Orc1,Origin recognition complex subunit 1,QQLCLLDGDDR,1.064193713,10.42752868
+176,Q9CQ65,sp|Q9CQ65|MTAP_MOUSE,Mtap,S-methyl-5-thioadenosine phosphorylase,ASGSACTAVK,1.2052,10.4869
+177,Q9QUH0,sp|Q9QUH0|GLRX1_MOUSE,Glrx,Glutaredoxin-1,AQEFVNCK,0.929947763,10.59085
+178,O08553,sp|O08553|DPYL2_MOUSE,Dpysl2,Dihydropyrimidinase-related protein 2,GLYDGPVCEVSVTPK,0.952498696,10.77904404
+179,Q91YQ5,sp|Q91YQ5|RPN1_MOUSE,Rpn1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,TEGSDLCDR,0.57663476,10.81081081
+180,O88342,sp|O88342|WDR1_MOUSE,Wdr1,WD repeat-containing protein 1,VCALGESK,0.70008401,10.83423619
+181,Q3U0J8,sp|Q3U0J8|TBD2B_MOUSE,Tbc1d2b,TBC1 domain family member 2B,LCQVESK,0.705467372,10.88139282
+182,Q60598,sp|Q60598|SRC8_MOUSE,Cttn,Src substrate cortactin,HCSQVDSVR,0.75103267,11.0757374
+183,Q62418,sp|Q62418|DBNL_MOUSE,Dbnl,Drebrin-like protein,AEEDVEPECIMEK,0.753536033,11.40250855
+184,Q9ET30,sp|Q9ET30|TM9S3_MOUSE,Tm9sf3,Transmembrane 9 superfamily member 3,NLSGQPNFPCR,0.68197185,13.03156403
+185,P11983,sp|P11983|TCPA_MOUSE,Tcp1,T-complex protein 1 subunit alpha,ICDDELILIK,1.180637544,13.31339107
+186,Q9Z1D1,sp|Q9Z1D1|EIF3G_MOUSE,Eif3g,Eukaryotic translation initiation factor 3 subunit G,EDLNCQEEEDPMNK,1.215173062,13.6573329
+187,P68254,sp|P68254|1433T_MOUSE,Ywhaq,14-3-3 protein theta,YLAEVACGDDR,1.023755783,14.36781609
+188,Q9CZB0,sp|Q9CZB0|C560_MOUSE,Sdhc,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",SLCLGPTLIYSAK,1.360867932,15.47152964
+189,P28667,sp|P28667|MRP_MOUSE,Marcksl1,MARCKS-related protein,EGGGDSSASSPTEEEQEQGEMSACSDEGTAQEGK,1.174338941,15.52795031
+190,Q9D8N0,sp|Q9D8N0|EF1G_MOUSE,Eef1g,Elongation factor 1-gamma,AAAPAPEEEMDECEQALAAEPK,1.039350839,16.02564103
+191,Q9CR51,sp|Q9CR51|VATG1_MOUSE,Atp6v1g1,V-type proton ATPase subunit G 1,EAAALGSHGSCSSEVEK,1.2187,16.92047377
+192,Q9WUM4,sp|Q9WUM4|COR1C_MOUSE,Coro1c,Coronin-1C,ETICSQDER,0.821422704,18.08318264
+193,Q91ZA3,sp|Q91ZA3|PCCA_MOUSE,Pcca,"Propionyl-CoA carboxylase alpha chain, mitochondrial",MADEAVCVGPAPTSK,0.829970013,18.87435461
+194,Q60598,sp|Q60598|SRC8_MOUSE,Cttn,Src substrate cortactin,CALGWDHQEK,0.814748496,18.99509804
+195,O54833,sp|O54833|CSK22_MOUSE,Csnk2a2,Casein kinase II subunit alpha,EQSQPCAENTVLSSGLTAAR,1.919378894,NL
+196,O54931,sp|O54931|AKAP2_MOUSE,Akap2,A-kinase anchor protein 2,APCVSESQSAGAGPANAATQGK,1.089068586,NL
+197,O70373,sp|O70373|XIRP1_MOUSE,Xirp1,Xin actin-binding repeat-containing protein 1,ISGSTPCPPPSR,0.884407889,NL
+198,P11438,sp|P11438|LAMP1_MOUSE,Lamp1,Lysosome-associated membrane glycoprotein 1,CNTEEHIFVSK,0.735570914,NL
+199,P14115,sp|P14115|RL27A_MOUSE,Rpl27a,60S ribosomal protein L27a,NQSFCPTVNLDK,0.909640807,NL
+200,P14824,sp|P14824|ANXA6_MOUSE,Anxa6,Annexin A6,ALLALCGGED,0.928255697,NL
+201,P16045,sp|P16045|LEG1_MOUSE,Lgals1,Galectin-1,FNAHGDANTIVCNTK,0.341653685,NL
+202,P31001,sp|P31001|DESM_MOUSE,Des,Desmin,HQIQSYTCEIDALK,0.831446505,NL
+203,P31230,sp|P31230|AIMP1_MOUSE,Aimp1,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1;Endothelial monocyte-activating polypeptide 2,IGCIVTAK,0.907467917,NL
+204,P51410,sp|P51410|RL9_MOUSE,Rpl9,60S ribosomal protein L9,TGVACSVSQAQK,0.657246139,NL
+205,P58252,sp|P58252|EF2_MOUSE,Eef2,Elongation factor 2,EGALCEENMR,0.838440323,NL
+206,P63017,sp|P63017|HSP7C_MOUSE,Hspa8,Heat shock cognate 71 kDa protein,VCNPIITK,0.781372089,NL
+207,P68510,sp|P68510|1433F_MOUSE,Ywhah,14-3-3 protein eta,NCNDFQYESK,0.806126562,NL
+208,P70261,sp|P70261|PALD_MOUSE,Pald1,,GQECGSQQAVQQR,3.368277147,NL
+209,P70336,sp|P70336|ROCK2_MOUSE,Rock2,Voltage-dependent anion-selective channel protein 1,NCLLETAK,0.556050235,NL
+210,P70452,sp|P70452|STX4_MOUSE,Stx4,WD repeat-containing protein 1,CNSMQSEYR,0.698763189,NL
+211,Q3UW53,sp|Q3UW53|NIBAN_MOUSE,Fam129a,Alpha-actinin-1,ALASTCKPELQK,0.949392217,NL
+212,Q3UZA1,sp|Q3UZA1|CPZIP_MOUSE,Rcsd1,Vimentin,SQSDCGDFR,1.320898568,NL
+213,Q60864,sp|Q60864|STIP1_MOUSE,Stip1,Serine-threonine kinase receptor-associated protein,ALDLDSSCK,0.986565671,NL
+214,Q60902,sp|Q60902|EP15R_MOUSE,Eps15l1,T-complex protein 1 subunit alpha,CTQDDINQAR,1.178411501,NL
+215,Q61656,sp|Q61656|DDX5_MOUSE,Ddx5,Superoxide dismutase [Cu-Zn],LIDFLECGK,0.701124607,NL
+216,Q62351,sp|Q62351|TFR1_MOUSE,Tfrc,Leucine-rich repeat-containing protein 40,WNIDSSCK,1.481981765,NL
+217,Q68FD5,sp|Q68FD5|CLH1_MOUSE,Cltc,"ATP synthase subunit d, mitochondrial",VIQCFAETGQVQK,0.624398141,NL
+218,Q6PHZ2;P11798,sp|Q6PHZ2|KCC2D_MOUSE,Camk2d;Camk2a,Rho-associated protein kinase 2,QETVDCLK,0.524374184,NL
+219,Q6ZWY3;Q6ZWU9,sp|Q6ZWY3|RS27L_MOUSE,Rps27l;Rps27,"2-oxoglutarate dehydrogenase, mitochondrial",LTEGCSFR,0.619931559,NL
+220,Q76MZ3,sp|Q76MZ3|2AAA_MOUSE,Ppp2r1a,Probable ATP-dependent RNA helicase DDX5,NLCSDDTPMVR,0.700716974,NL
+221,Q7TMY8,sp|Q7TMY8|HUWE1_MOUSE,Huwe1,S-formylglutathione hydrolase,DQSAQCTVTK,0.992161921,NL
+222,Q80X90,sp|Q80X90|FLNB_MOUSE,Flnb,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",VAVTEGCQPSR,2.020580559,NL
+223,Q8BH58,sp|Q8BH58|TIPRL_MOUSE,Tiprl,Clathrin heavy chain 1,VACAEEWQESR,0.666440503,NL
+224,Q8BJS4;Q9D666,sp|Q8BJS4|SUN2_MOUSE,Sun2;Sun1,Eukaryotic translation initiation factor 4E-binding protein 1,CSETYETK,1.085462072,NL
+225,Q8C190,sp|Q8C190|VP9D1_MOUSE,Vps9d1,CapZ-interacting protein,LAEQCLER,1.285347044,NL
+226,Q8JZK9,sp|Q8JZK9|HMCS1_MOUSE,Hmgcs1,Epidermal growth factor receptor substrate 15-like 1,ITASLCDLK,1.178267946,NL
+227,Q8K2B3,sp|Q8K2B3|SDHA_MOUSE,Sdha,CTP synthase 1,TLNEADCATVPPAIR,0.669302498,NL
+228,Q8K2H2,sp|Q8K2H2|OTU6B_MOUSE,Otud6b,40S ribosomal protein S3,LVNSATENCS,0.59584103,NL
+229,Q8VHE0,sp|Q8VHE0|SEC63_MOUSE,Sec63,Tax1-binding protein 1 homolog,EQSICAAEEQPTEDGQSDANK,1.003755161,NL
+230,Q8VHX6,sp|Q8VHX6|FLNC_MOUSE,Flnc,Filamin-A,VCAYGPGLK,0.963856293,NL
+231,Q91VH1,sp|Q91VH1|ADR1_MOUSE,Adipor1,Origin recognition complex subunit 1,AEEDQACPVPQEEEEEVR,1.061806682,NL
+232,Q99JY9,sp|Q99JY9|ARP3_MOUSE,Actr3,Glyceraldehyde-3-phosphate dehydrogenase,YSYVCPDLVK,0.761556732,NL
+233,Q99KI0,sp|Q99KI0|ACON_MOUSE,Aco2,60S acidic ribosomal protein P0,VGLIGSCTNSSYEDMGR,0.807872266,NL
+234,Q9CRC8,sp|Q9CRC8|LRC40_MOUSE,Lrrc40,Myosin light polypeptide 6,NQLCEIPQR,1.595951042,NL
+235,Q9CZY3,sp|Q9CZY3|UB2V1_MOUSE,Ube2v1,60S ribosomal protein L14,LPQPPEGQCYSN,0.70942659,NL
+236,Q9DCS3,sp|Q9DCS3|MECR_MOUSE,Mecr,Lysosome-associated membrane glycoprotein 1,LALNCVGGK,0.730406837,NL
+237,Q9DCT8,sp|Q9DCT8|CRIP2_MOUSE,Crip2,Plexin-B2,ASSVTTFTGEPNMCPR,0.822697765,NL
+238,Q9EQH3,sp|Q9EQH3|VPS35_MOUSE,Vps35,Thioredoxin-related transmembrane protein 1,TQCALAASK,0.948226816,NL
+239,Q9ERZ4,sp|Q9ERZ4|ACM2_MOUSE,Chrm2,Galectin-1,GDACTPTSTTVELVGSSGQNGDEK,0.250099034,NL
+240,Q9JI46,sp|Q9JI46|NUDT3_MOUSE,Nudt3,Calreticulin,EVCEEAGVK,0.975078078,NL
+241,Q9JKF1,sp|Q9JKF1|IQGA1_MOUSE,Iqgap1,Thimet oligopeptidase,TCLDNLASK,1.101019193,NL
+242,Q9QUR7,sp|Q9QUR7|PIN1_MOUSE,Pin1,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",SGEEDFESLASQFSDCSSAK,1.358102,NL
+243,Q9WV80,sp|Q9WV80|SNX1_MOUSE,Snx1,Voltage-dependent anion-selective channel protein 2,LQEVECEEQR,1.369057435,NL
+244,Q9Z0N1,sp|Q9Z0N1|IF2G_MOUSE,Eif2s3x,Coronin-1C,SCGSSTPDEFPTDIPGTK,1.072682431,NL
+245,Q9Z0P5,sp|Q9Z0P5|TWF2_MOUSE,Twf2,Triosephosphate isomerase,HLSSCAAPAPLTSAER,0.652718285,NL
+246,Q9Z1Q5,sp|Q9Z1Q5|CLIC1_MOUSE,Clic1,Translocation protein SEC63 homolog,EEFASTCPDDEEIELAYEQVAR,1.003580052,NL
+247,Q9Z2I9,sp|Q9Z2I9|SUCB1_MOUSE,Sucla2,Delta-1-pyrroline-5-carboxylate synthase;Glutamate 5-kinase;Gamma-glutamyl phosphate reductase,ILACDDLDEAAK,0.942168125,NL
+248,Q9DBA9,sp|Q9DBA9|TF2H1_MOUSE,Gtf2h1,Eukaryotic translation initiation factor 4B,QEMEAYTPK,0.856221154,NL
+249,Q8BG94,sp|Q8BG94|COMD7_MOUSE,Commd7,Elongation factor 1-gamma,ASMECLS,1.03777501,NL
+,,,,,,,
+aNL = no light labelled peptide detected but heavy labelled peptide found,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
