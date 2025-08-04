@@ -26,6 +26,8 @@
             sqlalchemy
             psycopg2
             python-dotenv
+            aiohttp
+
           ]);
         };
       });
